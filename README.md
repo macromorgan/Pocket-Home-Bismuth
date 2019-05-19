@@ -3,6 +3,8 @@ An application launcher and system manager for portable Linux devices.
 
 ![Bismuth Home Screen](./docs/images/screenshots/mainHome.png?raw=true "Bismuth home screen")
 
+## Input Branch
+This is where I will be experimenting with improved user input management. My eventual goal is to officially support the [ClockworkPi GameShell](https://www.clockworkpi.com/).
 
 Pocket-Home Bismuth is a rewrite of the Pocket-Home launcher. It introduces a full-featured, configurable application menu, improved Wifi control and performance, and initial support for devices other than the PocketC.H.I.P. The project's biggest focus is on creating extensively documented, reusable code, to make it as easy as possible to update, extend, and adapt.
 
