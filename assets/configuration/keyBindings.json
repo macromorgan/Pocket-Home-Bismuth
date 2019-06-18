@@ -1,0 +1,12 @@
+{
+    "up"          : "cursor up",
+    "down"        : "cursor down",
+    "left"        : "cursor left",
+    "right"       : "cursor right",
+    "previous"    : "page up",
+    "next"        : "page down",
+    "select"      : "return",
+    "cancel/back" : "escape",
+    "edit"        : "ctrl+e",
+    "quit"        : "ctrl+q"
+}
